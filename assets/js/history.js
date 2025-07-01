@@ -19,10 +19,9 @@ document.addEventListener("DOMContentLoaded", function () {
     container.appendChild(list);
   });
   document.getElementById('clear-history-btn').addEventListener('click', () => {
-    Storage.clearHistory(); // Clear data
-  
+    Storage.clearHistory(); 
     const container = document.getElementById('history-container');
-    container.innerHTML = '<p>No quiz history yet.</p>'; // Update UI immediately
+    container.innerHTML = '<p>No quiz history yet.</p>'; 
   });
   
   
