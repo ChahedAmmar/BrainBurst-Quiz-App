@@ -142,5 +142,5 @@ function restartQuiz(){
     showQuestions();
 }
 function goHome(){
-    window.location.href="../pages/index.html";
+    window.location.href="../index.html";
 }
