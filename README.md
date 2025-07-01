@@ -10,4 +10,4 @@ A web-based quiz application built with HTML, CSS, and JavaScript.
 - Time tracking for each quiz attempt
 - LocalStorage-based quiz history saving and retrieval
 - Dark mode toggle for better user experience
-- Responsive design for mobile and desktop
+
